@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65dd5039-ddfb-4a20-938b-2493eb0b5458" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Rattrapage-tests-logiciels.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rattrapage-tests-logiciels.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="65dd5039-ddfb-4a20-938b-2493eb0b5458" name="Changes" comment="ras">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/symfony.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +79,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657098175860</updated>
-      <workItem from="1657098177649" duration="1532000" />
+      <workItem from="1657098177649" duration="2420000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ras" />
+    <option name="LAST_COMMIT_MESSAGE" value="ras" />
   </component>
 </project>
